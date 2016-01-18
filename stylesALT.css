@@ -1,0 +1,23 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  width: 960px;
+  margin: 10px auto;
+}
+img {
+  float: right;
+}
+
+.header {
+  background: #EEE;
+  padding: 14px;
+  border-radius: 15px;
+}
+
+h3 {
+  border-bottom: solid 4px gray;
+  padding-bottom: 8px;
+}
+
+.tab {
+  margin-left: 20px;
+}
